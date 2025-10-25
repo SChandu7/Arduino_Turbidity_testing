@@ -168,6 +168,10 @@ Iot Sensors
 Application Working Dashboard
 <img width="726" height="715" alt="image" src="https://github.com/user-attachments/assets/7d8331e1-aaf9-41b1-84dc-755332e355fd" />
 
+## The Working Procedure Video Link ## 
+https://youtube.com/shorts/c4t2vuDY0r4?si=7bTsnMxe-LTXeFo6
+
+
 
 
 ## 🚀 Future Enhancements
@@ -193,3 +197,4 @@ This project is licensed under the **MIT License** – see [LICENSE](LICENSE) fi
 
 ## 🧠 Keywords
 Arduino, ESP32, IoT, Turbidity, pH, TDS, NPK, Gas Sensor, Water Quality, Real-time Monitoring, Smart Agriculture
+
