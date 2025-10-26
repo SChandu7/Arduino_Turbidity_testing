@@ -195,6 +195,8 @@ This project is licensed under the **MIT License** – see [LICENSE](LICENSE) fi
 
 ---
 
-## 🧠 Keywords
-Arduino, ESP32, IoT, Turbidity, pH, TDS, NPK, Gas Sensor, Water Quality, Real-time Monitoring, Smart Agriculture
+## Contact
 
+If you have any questions or suggestions regarding the Coffee app, feel free to contact us at kingchandus143@gmail.com 
+
+---
